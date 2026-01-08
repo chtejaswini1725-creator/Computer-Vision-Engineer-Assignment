@@ -247,26 +247,11 @@ Class-wise average precisions (not scaled to 100) are listed below.
 
 | Class | Average Precision |
 | :-----: | :------: |
-| _aeroplane_ | 0.7887580990791321 |
 | _bicycle_ | 0.8351995348930359 |
-| _bird_ | 0.7623348236083984 |
-| _boat_ | 0.7218425273895264 |
-| _bottle_ | 0.45978495478630066 |
-| _bus_ | 0.8705356121063232 |
 | _car_ | 0.8655831217765808 |
-| _cat_ | 0.8828985095024109 |
-| _chair_ | 0.5917483568191528 |
-| _cow_ | 0.8255912661552429 |
-| _diningtable_ | 0.756867527961731 |
 | _dog_ | 0.856262743473053 |
-| _horse_ | 0.8778411149978638 |
-| _motorbike_ | 0.8316892385482788 |
 | _person_ | 0.7884440422058105 |
-| _pottedplant_ | 0.5071538090705872 |
-| _sheep_ | 0.7936667799949646 |
-| _sofa_ | 0.7998116612434387 |
 | _train_ | 0.8655905723571777 |
-| _tvmonitor_ | 0.7492395043373108 |
 
 You can see that some objects, like bottles and potted plants, are considerably harder to detect than others.
 
